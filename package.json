@@ -7,6 +7,6 @@
   },
   "dependencies": {
     "react-native": "^0.4.4",
-    "react-native-motion-manager": "0.0.5"
+    "react-native-motion-manager": "brentvatne/react-native-motion-manager"
   }
 }
